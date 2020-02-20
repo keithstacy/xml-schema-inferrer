@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XmlSchemaInferrer": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\u7kstacy\\OneDrive - Carl Zeiss AG\\Documents\\SurfMax Documentation\\SurfMax XMLs\\ResultCollectionDataSet.xml\""
+    }
+  }
+}
